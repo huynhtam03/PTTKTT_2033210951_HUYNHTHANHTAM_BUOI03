@@ -32,7 +32,11 @@
 
 <a name = '1'></a>
 # 1.	Giới thiệu 
+Binary Search: Là một thuật toán tìm kiếm hiệu quả được áp dụng trên mảng đã sắp xếp để nhanh chóng xác định vị trí của một phần tử cụ thể.
 
+Quick Sort: Là thuật toán sắp xếp nhanh, được sử dụng rộng rãi với chiến lược chia để trị, cho phép sắp xếp các phần tử trong mảng với hiệu suất cao.
+
+SumArray: Là thuật toán đơn giản để tính tổng các phần tử trong mảng, có thể được thực hiện bằng cách đệ quy hoặc không đệ quy.
 
 <a name = '2'></a>
 # 2.	Sum Array
